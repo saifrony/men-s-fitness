@@ -1,0 +1,31 @@
+.product{
+    width: 300px;
+    
+    background-color: aqua;
+    border-radius: 15px;
+    
+
+}
+.product img{
+    width: 280px;
+    height: 250px;
+    padding: 10px;
+    border-radius: 20px;
+
+
+}
+.product-name{
+    padding: 10px;
+}
+.product-name button{
+    color: red;
+    width: 100%;
+    padding: 15px 0px;
+    
+    border-radius: 20px;
+    
+}
+.product-name button:hover{
+    background-color: blueviolet;
+    color: azure;
+}
